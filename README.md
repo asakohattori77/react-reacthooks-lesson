@@ -510,7 +510,7 @@ p347
 $ yarn add @chakra-ui/icons
 ```
 
-CodeSandboxでChakra UIを利用したい場合は、CodeSandboxのDependenciesから、`@chakra-ui/react、@emotion/react、@emotion/styled、@chakra-ui/icons、@chakra-ui/icons、framer-motion`を選択してインストールします。
+CodeSandboxでChakra UIを利用したい場合は、CodeSandboxのDependenciesから、`@chakra-ui/react、@emotion/react、@emotion/styled、@chakra-ui/icons、framer-motion`を選択してインストールします。
 
 #### Chakra UI を触ってみる
 
