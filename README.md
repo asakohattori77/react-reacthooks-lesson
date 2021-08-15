@@ -480,6 +480,7 @@ TODOアプリ作成の進捗①〜⑨ごとに分割しています。
 |[07-ChakraUI_Breakpoints](https://codesandbox.io/s/07-chakraui-breakpoints-gp2je)|p336,337|動作確認のためコードを追加|
 |[07-ChakraUI_Spacing](https://codesandbox.io/s/07-chakraui-spacing-p301r)|p338|動作確認のためコードを追加|
 |[07-ChakraUI_Sizes](https://codesandbox.io/s/07-chakraui-sizes-e7c02)|p339|動作確認のためコードを追加|
+|[07-ChakraUI_BorderRadius](https://codesandbox.io/s/07-chakraui-borderradius-h9c95)||追加コンテンツ|
 
 
 #### Style Propsを確認しよう
