@@ -96,7 +96,7 @@
 |[01-配列_配列のフラット化_Array.flat() [ES2019]](https://codesandbox.io/s/01-peiliepeilienohuratutohuaarrayflat-es2019-mqsm1)|p60||
 |[01-配列_分割代入 [ES2015]](https://codesandbox.io/s/01-peiliefengedairues2015-bjp6i)|p61||
 |[01-配列_配列の高階関数-Array.forEach()](https://codesandbox.io/s/01-peiliepeilienogaojieguanshu-arrayforeach-rfk7u)|p62||
-|[01-配列_配列の高階関数-Array.map()](https://codesandbox.io/s/01-peiliepeilienogaojieguanshu-arraymap-6hdbn)|p63||
+|[01-配列_配列の高階関数-Array.map()](https://codesandbox.io/s/01-peiliepeilienogaojieguanshu-arraymap-6hdbn)|p63|コメントに表記ミスがありました|
 |[01-配列_配列の高階関数_Array.filter()](https://codesandbox.io/s/01-peiliepeilienogaojieguanshuarrayfilter-9l683)|p63||
 |[01-配列_配列の高階関数_Array.find()[ES2015]](https://codesandbox.io/s/01-peiliepeilienogaojieguanshuarrayfindes2015-l8x2r)|p64||
 |[01-配列_配列の高階関数_Array.findIndex()[ES2015]](https://codesandbox.io/s/01-peiliepeilienogaojieguanshuarrayfindindex-es2015-yfrfu)|p65||
