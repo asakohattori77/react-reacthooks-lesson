@@ -319,7 +319,7 @@ p135
 
 |タイトル|ページ|補足|
 |:--|:--:|:--|
-|[04-テキスト入力フォーム](https://codesandbox.io/s/04-tekisutorulihuomu-df7ww)|p172||
+|[04-テキスト入力フォーム](https://codesandbox.io/s/04-tekisutorulihuomu-df7ww)|p172|書籍中のサンプルコード一行目に`import React, { useState } from "react";`が抜けていました|
 |[04-セレクトボックス](https://codesandbox.io/s/04-serekutobotukusu-ws6ct)|p174||
 |[04-セレクトボックス（map処理）](https://codesandbox.io/s/04-serekutobotukusumapchuli-5hls1)|p176||
 |[04-ラジオボタン](https://codesandbox.io/s/04-raziobotan-jwk8r)|p178||
