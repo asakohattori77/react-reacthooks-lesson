@@ -8,6 +8,15 @@
 
 <img src="./images/cover.png" width="300px"/>
 
+## 更新情報
+
+- [2021.09.26] p172（SECTION24） `App.js`ファイル内に記載漏れがありました。コードの先頭に`import React, { useState } from "react"`を追記しないとエラーが出て動きません。
+大変お手数をお掛けしますがご確認宜しくお願いします。
+
+|タイトル|ページ|補足|
+|:--|:--:|:--|
+|[04-テキスト入力フォーム](https://codesandbox.io/s/04-tekisutorulihuomu-df7ww)|p172|書籍中のサンプルコード一行目に`import React, { useState } from "react";`が抜けていました|
+
 
 ## CHAPTER1 Reactを始めるために必要なJavaScriptの知識
 
